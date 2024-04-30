@@ -1,7 +1,7 @@
 #### A little bit about me
 ```javascript
 const Micael = {
-  askMeAbout: ["web dev", "backend dev", "infraestructure", "docker"],
+  askMeAbout: ["web dev", "backend dev", "infraestructure"],
   technologies: {
       frontend: ["HTML", "CSS"],
       backend: ["Javascript/Typescript", "Java", "Rust", "C", "Dart"],
