@@ -1,4 +1,4 @@
-#### A little more about me
+#### A little bit about me
 ```javascript
 const Micael = {
   code: ["Javascript", "Java", "Rust", "C", "Dart"],
