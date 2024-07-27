@@ -1,7 +1,3 @@
-# Olá, eu sou o Micael 👋
-
-Sou programador e estou na jornada de criar meus próprios projetos. Aqui, você encontrará uma coleção dos meus trabalhos, desafios, aprendizados e conquistas no mundo da programação. 
-
 ## Sobre Mim
 
 - Atualmente estou desenvolvendo 2 projetos pessoais e explorando novas tecnologias.
